@@ -1,0 +1,35 @@
+{
+    "name": "omentor_app",
+    "short_name": "omentor_app",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "OMentor is a next-generation online coaching platform built using Flutter, designed to guide students toward successful careers through personalized mentorship, skill development, and structured training programs.  The omentor_app offers a seamless, cross-platform experience for learners — combining intuitive design, powerful features, and scalable architecture to support short-term and long-term coaching goals. Whether it’s preparing for placements, mastering in-demand tech skills, or receiving interview-ready guidance, OMentor bridges the gap between learning and real-world success.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
