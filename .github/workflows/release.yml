@@ -25,7 +25,7 @@ jobs:
       - name: 📤 Deploy via FTP
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
-          server: ftp.omorals.com
+          server: omorals.com
           username: omentor_app@omorals.com
           password: 77LU(GwsZB?$
           local-dir: build/web/
