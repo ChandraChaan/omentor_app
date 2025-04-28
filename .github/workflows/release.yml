@@ -27,7 +27,7 @@ jobs:
         with:
           server: omorals.com
           username: omentor_app@omorals.com
-          password: 77LU(GwsZB?$
+          password: '@KXUnD3H.m0A'
           local-dir: build/web/
           port: 21
           server-dir: /
