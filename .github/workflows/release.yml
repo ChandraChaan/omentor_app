@@ -30,6 +30,8 @@ jobs:
           password: 77LU(GwsZB?$
           local-dir: build/web/
           port: 21
+          server-dir: /
+          dangerous-clean-slate: true
 
       - name: 📁 (Optional) Upload ZIP to GitHub Release
         if: github.event_name == 'release'
